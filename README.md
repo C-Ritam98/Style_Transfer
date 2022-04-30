@@ -3,6 +3,9 @@
 Implementation of the paper "Content preserving text generation with attribute controls", Logeswaran et al., which talks 'bout a backtranslation based style transfer network.
 
 
+![Logo](https://github.com/C-Ritam98/Style_Transfer/blob/main/Plots/Model_framework.png)
+
+
 ## Deployment
 
 First of all, place all the files/folders present in this repository inside a new directory named "my_CPTG", else you will get an alert mentioning the same.
