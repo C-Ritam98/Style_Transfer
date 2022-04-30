@@ -9,8 +9,9 @@ First of all, place all the files/folders present in this repository inside a ne
 
 Next, re-install torch and torchtext versions 1.8.0 and 0.9.0 (with(out) cudnn as nccessary) by this command
 ```bash
-$ ! pip3 install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 torchtext==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html
+$ pip3 install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 torchtext==0.10.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
+Choose the dataset to train on by manipulating `dataset_name` variable in `main.py` and `eval.py`files.
 
 To train the model run
 
