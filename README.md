@@ -31,7 +31,7 @@ To test the model run
 Examples of style transferred text produced by the model trained on yelp data set.
 - “horrible service .” --> “great staff .”
 - “a worthwhile read for the <unk> <unk> but it is ” --> “a boring read that the <unk> is but that a”
-- “ very interesting look into the the life of our first great ” --> “very boring rambling to view of of life “
+- “ very interesting look into the life of our first great ...” --> “very boring rambling to view of of life “
 
 
 ## Acknowledgements
